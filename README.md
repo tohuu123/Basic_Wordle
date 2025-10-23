@@ -30,9 +30,9 @@ The game includes an on-screen keyboard that also updates with these colors, hel
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YourUsername/YourRepoName.git](https://github.com/YourUsername/YourRepoName.git)
-    cd YourRepoName
-    ```
+    git clone [https://github.com/tohuu123/Basic_Wordle.git](https://github.com/tohuu123/Basic_Wordle.git)
+    cd Basic_Wordle
+    ``` 
 2.  **Run the game:**
     Once the `assets` folder and word lists are in place, you can run the game from your terminal:
     ```bash
