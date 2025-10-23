@@ -2,8 +2,6 @@
 
 A classic word-guessing game built with Python and the Tkinter GUI library.
 
-*(Suggestion: Add a screenshot or GIF of your game here!)*
-
 ## 📖 About The Game
 
 This project is a desktop implementation of the Wordle game. Players have six attempts to guess a secret five-letter word. After each guess, the game provides color-coded feedback:
@@ -41,14 +39,3 @@ The game includes an on-screen keyboard that also updates with these colors, hel
     python main.py
     ```
     *(Note: On some systems, you may need to use `python3` instead of `python`.)*
-
-## 📁 Project Structure
-Wordle_Python/
-│
-├── assets/
-│   ├── dictionary.txt  
-│   └── guesses.txt     
-│
-├── main.py           
-│
-└── README.md           
